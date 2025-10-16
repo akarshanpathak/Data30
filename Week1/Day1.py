@@ -1,0 +1,9 @@
+#Day 1-Python Basics
+def day1():
+    name=input("Enter your name : ")
+    age=input("Enter your age : ") 
+    print(f"Hello {name}, you are {age} year old")
+
+day1()   
+
+
